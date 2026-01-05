@@ -20,5 +20,5 @@ You can download my CV here: [CV Constanza Vergara.pdf](https://github.com/user-
 ---
 
 ## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/constanza-vergara-spencer
+- LinkedIn: https://www.linkedin.com/in/constanza-vergara-spencer
 - Email: constanzavergaraspencer@gmail.com
