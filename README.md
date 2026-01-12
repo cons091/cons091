@@ -1,24 +1,47 @@
-# Hi, I'm Constanza 👋
-Junior Software Developer passionate about building web, desktop and AI applications.
+# Hi, I'm Constanza 👋  
+
+Junior Full Stack Developer with a strong focus on backend development and production-ready applications.  
+I enjoy building secure, scalable systems and simulating real-world business processes.
 
 ---
 
 ## 📝 About Me
-- 💻 Skills: Python, JavaScript, React, SQL, HTML, CSS, Copilot Studio, Power Automate, VB.NET 
-- 🏆 Interests: Open Source, Software Architecture, QA, Software Development
+
+- 💻 **Technologies:** JavaScript, Node.js, Express, React, PostgreSQL, Python, SQL, HTML, CSS  
+- 🔐 **Backend Skills:** REST APIs, JWT Authentication, Role-Based Access Control, Input Validation, Error Handling  
+- ⚙️ **Tools & Platforms:** Git, GitHub, Swagger (OpenAPI), Jest, Supertest, Postman  
+- 🏆 **Interests:** Software Architecture, Backend Development, API Design, QA & Testing
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
+### 🔹 Internal Process Automation System (Full Stack)
+**PERN Stack | JWT | PostgreSQL | Swagger | Jest**
+
+Full Stack system designed to automate and audit internal corporate requests, simulating a real enterprise environment.
+
+**Key Features:**
+- Secure authentication using JWT and password hashing (bcrypt)
+- Role-based access (User / Admin)
+- Automated approval workflow based on business rules
+- Global error handling and input validation (Fail-Fast)
+- Complete audit trail of request status changes
+- API documentation with Swagger (OpenAPI)
+- Integration tests with Jest & Supertest
+
+🔗 **Repository:**  
+https://github.com/cons091/Internal-Process-Automation
 
 ---
 
 ## 📄 CV
-You can download my CV here: [CV Constanza Vergara.pdf](https://github.com/user-attachments/files/21827252/CV.Constanza.Vergara.pdf)
+
+📎 [Download CV – Constanza Vergara](https://github.com/user-attachments/files/21827252/CV.Constanza.Vergara.pdf)
 
 ---
 
 ## 📫 Contact Me
-- LinkedIn: https://www.linkedin.com/in/constanza-vergara-spencer
-- Email: constanzavergaraspencer@gmail.com
+
+- 💼 LinkedIn: https://www.linkedin.com/in/constanza-vergara-spencer  
+- 📧 Email: constanzavergaraspencer@gmail.com
