@@ -33,6 +33,28 @@ Full Stack system designed to automate and audit internal corporate requests, si
 🔗 **Repository:**  
 https://github.com/cons091/Internal-Process-Automation
 
+🔹 NutriMotion – Fitness & Nutrition Tracking App (Mobile)
+
+Flutter | Firebase | Firestore | Clean Architecture
+
+Mobile application focused on workout tracking, training progression, and exercise performance analysis.
+
+Key Features:
+
+Custom workout creation with exercises, series, reps, and weights
+
+Empty workout mode with live training session and stopwatch
+
+Training session history stored per user
+
+Progress tracking per exercise with historical data (date, reps, weight)
+
+Firebase Authentication and Firestore persistence
+
+Modular and scalable architecture for future nutrition features
+
+🔗 Repository:
+https://github.com/cons091/NutriMotion
 ---
 
 ## 📄 CV
